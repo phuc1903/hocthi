@@ -1,0 +1,37 @@
+<div class="container mt-5">
+    <div>
+        <a class="btn btn-primary mb-5" href="#!manager/addQuiz">Them</a>
+        <div class="card">
+            <div class="card-header text-uppercase">
+                Danh sach quiz
+            </div>
+            <table class="table table-bordered table-condensed mb-0">
+                <thead>
+                    <tr>
+                        <th><a href="#" class="text-decoration-none">STT</a></th>
+                        <th><a href="#" class="text-decoration-none">Title</a></th>
+                        <th><a href="#" class="text-decoration-none">Location</a></th>
+                        <th><a href="#" class="text-decoration-none">rank</a></th>
+                        <th><a href="#" class="text-decoration-none">NGÀY</a></th>
+                        <th><a href="#" class="text-decoration-none">ACTION</a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="q in quizes track by $index">
+                        <td>{{$index + 1}}</td>
+                        <td>{{q.title}}</td>
+                        <td>{{q.location}}</td>
+                        <td>{{q.rank}}</td>
+                        <td>{{q.created_at | date:"MMMM-dd, yyyy"}}</td>
+                        <td class="d-flex justify-content-center gap-2">
+                            <a class="btn btn-danger" ng-click="deleteQuiz(q.id, $index)">Xoa</a>
+                            <a class="btn btn-success" href="#!manager/quizes/{{q.id}}">Xem chi tiet</a>
+                            <a class="btn btn-info">Sua</a>
+                        </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

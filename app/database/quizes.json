@@ -1,0 +1,3893 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "[IELTS Intensive Reading] Chiến lược làm bài - Chữa đề - Từ vựng IELTS Reading",
+      "description": "Khóa học IELTS Intensive Listening và Intensive Reading cung cấp video bài giảng hướng dẫn chi tiết cách làm",
+      "price": 2000
+    },
+    {
+      "id": "2",
+      "title": "Lop 10"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "IELTS",
+      "description": "Hoc itelts",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "2",
+      "name": "Lớp 7",
+      "description": "dành cho học sinh lớp 7",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "3",
+      "name": "Lớp 8",
+      "description": "Dành cho học sinh lớp 8",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "4",
+      "name": "Lớp 9",
+      "description": "Dành cho học sinh lớp 9",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "5",
+      "name": "Lớp 10",
+      "description": "dành cho học sinh lớp 10",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "6",
+      "name": "Lớp 11",
+      "description": "dành cho học sinh lớp 11",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "7",
+      "name": "Lớp 12",
+      "description": "dành cho học sinh lớp 12",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "8",
+      "name": "Toán học",
+      "description": "danh mục dành cho môn toán",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "9",
+      "name": "Sinh học",
+      "description": "danh mục dành cho môn sinh",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "10",
+      "name": "Hóa học",
+      "description": "danh mục dành cho môn hóa",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "11",
+      "name": "Tiếng Anh",
+      "description": "danh mục dành cho môn tiếng anh",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "12",
+      "name": "Trung học phổ thông quốc gia",
+      "description": "Trung học phổ thông quốc gia",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "13",
+      "name": "Học sinh giỏi",
+      "description": "Danh mục đề thi cho học sinh giỏi",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "14",
+      "name": "Học sinh giỏi",
+      "description": "Danh mục đề thi cho học sinh giỏi",
+      "created_at": "2024-03-30 17:31:58",
+      "is_show": "1",
+      "updated_at": "2024-03-30 17:31:58"
+    },
+    {
+      "id": "15",
+      "name": "Lớp 6",
+      "description": "dành cho học sinh lớp 6",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "16",
+      "name": "Cao đẳng FPT",
+      "description": "dành cho sinh viên CĐ FPT",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "17",
+      "name": "Cao đẳng Anh Quốc BTEC FPT",
+      "description": "dành cho sinh viên Cao đẳng Anh Quốc BTEC FPT",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "18",
+      "name": "Trường Cao đẳng Bách Khoa",
+      "description": "dành cho sinh viên Trường Cao đẳng Bách Khoa",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "19",
+      "name": "Cao đẳng Khoa học - Công nghệ TP.HCM",
+      "description": "dành cho sinh viên Cao đẳng Khoa học - Công nghệ TP.HCM",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "20",
+      "name": "Cao đẳng Công nghệ thông tin - TP. Hồ Chí Minh",
+      "description": "dành cho sinh viên Cao đẳng Công nghệ thông tin - TP. Hồ Chí Minh",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "21",
+      "name": "Trường Cao đẳng Công nghệ và Thương mại Hà Nội",
+      "description": "dành cho sinh viên Trường Cao đẳng Công nghệ và Thương mại Hà Nội",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    },
+    {
+      "id": "22",
+      "name": "Cao đẳng Viễn Đông",
+      "description": "dành cho sinh viên Cao đẳng Viễn Đông",
+      "created_at": "2024-03-30 17:31:58",
+      "updated_at": "2024-03-30 17:31:58",
+      "is_show": "1"
+    }
+  ],
+  "quizes": [
+    {
+      "id": "1",
+      "title": "Ôn tập 1-10 Javascipt",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "CĐ FPT",
+      "category_id": 16,
+      "user_join": "3",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "2",
+      "title": "Ôn tập 11-20 Javascript cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 16,
+      "user_join": "0",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "3",
+      "title": "Ôn tập 21-30 Javascript cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng Anh Quốc BTEC FPT",
+      "category_id": 17,
+      "user_join": "8",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "4",
+      "title": "Ôn tập 31-40 Javascipt cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Trường THCS Đoàn Thị Điểm",
+      "category_id": 17,
+      "user_join": "4",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "5",
+      "title": "Ôn tập 41-50 Javascipt cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Trường Cao đẳng Bách Khoa",
+      "category_id": 18,
+      "user_join": "7",
+      "time": "60",
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "6",
+      "title": "Ôn tập 51-60 Javascipt cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Trường Cao đẳng Bách Khoa",
+      "category_id": 18,
+      "user_join": "9",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "7",
+      "title": "Ôn tập 61-70 Javascipt cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Trường Cao đẳng Bách Khoa",
+      "category_id": 18,
+      "user_join": "7",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "normal"
+    },
+    {
+      "id": "8",
+      "title": "Ôn tập 71-80 Javascipt cơ bản",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Trường THCS Hiền Vương",
+      "category_id": 19,
+      "user_join": "4",
+      "time": 60,
+      "ques_quantity": 40,
+      "rank": "normal"
+    },
+    {
+      "id": "9",
+      "title": "Ôn tập 81-90 Javascipt",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 19,
+      "user_join": "9",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "medium"
+    },
+    {
+      "id": "10",
+      "title": "Ôn tập 91-100 Javascipt",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 19,
+      "user_join": "9",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "medium"
+    },
+    {
+      "id": "11",
+      "title": "Ôn tập 101-109 Javascipt",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 19,
+      "user_join": "9",
+      "time": 60,
+      "ques_quantity": 9,
+      "rank": "medium"
+    },
+    {
+      "id": "12",
+      "title": "Cấu trúc dữ liệu",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 21,
+      "user_join": "2",
+      "time": 60,
+      "ques_quantity": 5,
+      "rank": "critical"
+    },
+    {
+      "id": "13",
+      "title": "Lập trình hướng đối tượng",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 21,
+      "user_join": "5",
+      "time": 60,
+      "ques_quantity": 5,
+      "rank": "critical"
+    },
+    {
+      "id": "14",
+      "title": "DOM và Event Handling:",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 21,
+      "user_join": "6",
+      "time": 60,
+      "ques_quantity": 5,
+      "rank": "critical"
+    },
+    {
+      "id": "15",
+      "title": "AJAX",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 22,
+      "user_join": "5",
+      "time": 60,
+      "ques_quantity": 10,
+      "rank": "critical"
+    },
+    {
+      "id": "16",
+      "title": "ES6 và các phiên bản mới hơn",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 22,
+      "user_join": "8",
+      "time": 60,
+      "ques_quantity": 5,
+      "rank": "critical"
+    },
+    {
+      "id": "17",
+      "title": "Câu hỏi nâng cao",
+      "created_at": "2024-03-30",
+      "updated_at": "2024-03-30",
+      "location": "Cao đẳng FPT",
+      "category_id": 22,
+      "user_join": "5",
+      "time": 60,
+      "ques_quantity": 15,
+      "rank": "critical"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "question": "JavaScript là ngôn ngữ lập trình nào?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "1",
+          "content": "Biên dịch",
+          "is_correct": false,
+          "question_id": "1"
+        },
+        {
+          "id": "2",
+          "content": "Diễn giải",
+          "is_correct": true,
+          "question_id": "1"
+        },
+        {
+          "id": "3",
+          "content": "Cả hai",
+          "is_correct": false,
+          "question_id": "1"
+        },
+        {
+          "id": "4",
+          "content": "Không phải cái nào",
+          "is_correct": true,
+          "question_id": "1"
+        }
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "2",
+      "question": "Trong JavaScript, null là gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "5",
+          "content": "Một giá trị không xác định",
+          "is_correct": false,
+          "question_id": "2"
+        },
+        {
+          "id": "6",
+          "content": "Một giá trị rỗng",
+          "is_correct": true,
+          "question_id": "2"
+        },
+        {
+          "id": "7",
+          "content": "Một giá trị không tồn tại",
+          "is_correct": false,
+          "question_id": "2"
+        },
+        {
+          "id": "8",
+          "content": "Một giá trị không hợp lệ",
+          "is_correct": false,
+          "question_id": "2"
+        }
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "3",
+      "question": "Trong JavaScript, undefined là gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "9",
+          "content": "Một giá trị không xác định",
+          "is_correct": true,
+          "question_id": "3"
+        },
+        {
+          "id": "10",
+          "content": "Một giá trị rỗng",
+          "is_correct": false,
+          "question_id": "3"
+        },
+        {
+          "id": "11",
+          "content": "Một giá trị không tồn tại",
+          "is_correct": false,
+          "question_id": "3"
+        },
+        {
+          "id": "12",
+          "content": "Một giá trị không hợp lệ",
+          "is_correct": true,
+          "question_id": "3"
+        }
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "4",
+      "question": "Trong JavaScript, NaN là gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "13",
+          "content": "Một giá trị không xác định",
+          "is_correct": false,
+          "question_id": "4"
+        },
+        {
+          "id": "14",
+          "content": "Một giá trị rỗng",
+          "is_correct": false,
+          "question_id": "4"
+        },
+        {
+          "id": "15",
+          "content": "Một giá trị không tồn tại",
+          "is_correct": true,
+          "question_id": "4"
+        },
+        {
+          "id": "16",
+          "content": "Một giá trị không phải là số",
+          "is_correct": true,
+          "question_id": "4"
+        }
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "5",
+      "question": "Trong JavaScript, typeof null trả về gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "17",
+          "content": "\"null\"",
+          "is_correct": false,
+          "question_id": "5"
+        },
+        {
+          "id": "18",
+          "content": "\"undefined\"",
+          "is_correct": false,
+          "question_id": "5"
+        },
+        {
+          "id": "19",
+          "content": "\"object\"",
+          "is_correct": true,
+          "question_id": "5"
+        },
+        {
+          "id": "20",
+          "content": "\"NaN\"",
+          "is_correct": false,
+          "question_id": "5"
+        }
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "6",
+      "question": "Trong JavaScript, typeof NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "21",
+          "content": "\"null\"",
+          "is_correct": false,
+          "question_id": "6"
+        },
+        {
+          "id": "22",
+          "content": "\"undefined\"",
+          "is_correct": false,
+          "question_id": "6"
+        },
+        {
+          "id": "23",
+          "content": "\"object\"",
+          "is_correct": false,
+          "question_id": "6"
+        },
+        {
+          "id": "24",
+          "content": "\"number\"",
+          "is_correct": true,
+          "question_id": "6"
+        }
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "id": "7",
+      "question": "Trong JavaScript, typeof undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "25",
+          "content": "\"null\"",
+          "is_correct": true,
+          "question_id": "7"
+        },
+        {
+          "id": "26",
+          "content": "\"undefined\"",
+          "is_correct": true,
+          "question_id": "7"
+        },
+        {
+          "id": "27",
+          "content": "\"object\"",
+          "is_correct": false,
+          "question_id": "7"
+        },
+        {
+          "id": "28",
+          "content": "\"number\"",
+          "is_correct": false,
+          "question_id": "7"
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "8",
+      "question": "Trong JavaScript, typeof [] trả về gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "29",
+          "content": "\"null\"",
+          "is_correct": false,
+          "question_id": "8"
+        },
+        {
+          "id": "30",
+          "content": "\"undefined\"",
+          "is_correct": false,
+          "question_id": "8"
+        },
+        {
+          "id": "31",
+          "content": "\"object\"",
+          "is_correct": true,
+          "question_id": "8"
+        },
+        {
+          "id": "32",
+          "content": "\"array\"",
+          "is_correct": false,
+          "question_id": "8"
+        }
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "9",
+      "question": "Trong JavaScript, typeof {} trả về gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "33",
+          "content": "\"null\"",
+          "is_correct": false,
+          "question_id": "9"
+        },
+        {
+          "id": "34",
+          "content": "\"undefined\"",
+          "is_correct": false,
+          "question_id": "9"
+        },
+        {
+          "id": "35",
+          "content": "\"object\"",
+          "is_correct": true,
+          "question_id": "9"
+        },
+        {
+          "id": "36",
+          "content": "\"array\"",
+          "is_correct": false,
+          "question_id": "9"
+        }
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "10",
+      "question": "Trong JavaScript, typeof function() {} trả về gì?",
+      "images": "null",
+      "quiz_id": "1",
+      "answers": [
+        {
+          "id": "37",
+          "content": "\"null\"",
+          "is_correct": false,
+          "question_id": "10"
+        },
+        {
+          "id": "38",
+          "content": "\"undefined\"",
+          "is_correct": false,
+          "question_id": "10"
+        },
+        {
+          "id": "39",
+          "content": "\"object\"",
+          "is_correct": false,
+          "question_id": "10"
+        },
+        {
+          "id": "40",
+          "content": "\"function\"",
+          "is_correct": true,
+          "question_id": "10"
+        }
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "id": "11",
+      "question": "Trong JavaScript, 0 == false trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "41",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "11"
+        },
+        {
+          "id": "42",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "11"
+        },
+        {
+          "id": "43",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "11"
+        },
+        {
+          "id": "44",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "11"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "question": "Trong JavaScript, 0 === false trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "45",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "12"
+        },
+        {
+          "id": "46",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "12"
+        },
+        {
+          "id": "47",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "12"
+        },
+        {
+          "id": "48",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "12"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "question": "Trong JavaScript, null == undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "49",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "13"
+        },
+        {
+          "id": "50",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "13"
+        },
+        {
+          "id": "51",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "13"
+        },
+        {
+          "id": "52",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "13"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "question": "Trong JavaScript, null === undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "53",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "14"
+        },
+        {
+          "id": "54",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "14"
+        },
+        {
+          "id": "55",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "14"
+        },
+        {
+          "id": "56",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "14"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "question": "Trong JavaScript, NaN == NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "57",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "15"
+        },
+        {
+          "id": "58",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "15"
+        },
+        {
+          "id": "59",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "15"
+        },
+        {
+          "id": "60",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "15"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "question": "Trong JavaScript, NaN === NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "61",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "16"
+        },
+        {
+          "id": "62",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "16"
+        },
+        {
+          "id": "63",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "16"
+        },
+        {
+          "id": "64",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "16"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "question": "Trong JavaScript, isNaN(NaN) trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "65",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "17"
+        },
+        {
+          "id": "66",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "17"
+        },
+        {
+          "id": "67",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "17"
+        },
+        {
+          "id": "68",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "17"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "question": "Trong JavaScript, isNaN(\"NaN\") trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "69",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "18"
+        },
+        {
+          "id": "70",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "18"
+        },
+        {
+          "id": "71",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "18"
+        },
+        {
+          "id": "72",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "18"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "question": "Trong JavaScript, isNaN(\"abc\") trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "73",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "19"
+        },
+        {
+          "id": "74",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "19"
+        },
+        {
+          "id": "75",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "19"
+        },
+        {
+          "id": "76",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "19"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "question": "Trong JavaScript, isNaN(123) trả về gì?",
+      "images": "null",
+      "quiz_id": "2",
+      "answers": [
+        {
+          "id": "77",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "20"
+        },
+        {
+          "id": "78",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "20"
+        },
+        {
+          "id": "79",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "20"
+        },
+        {
+          "id": "80",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "20"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "question": "Trong JavaScript, Array.isArray([]) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "81",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "21"
+        },
+        {
+          "id": "82",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "21"
+        },
+        {
+          "id": "83",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "21"
+        },
+        {
+          "id": "84",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "21"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "question": "Trong JavaScript, Array.isArray({}) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "85",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "22"
+        },
+        {
+          "id": "86",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "22"
+        },
+        {
+          "id": "87",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "22"
+        },
+        {
+          "id": "88",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "22"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "question": "Trong JavaScript, Array.isArray(null) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "89",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "23"
+        },
+        {
+          "id": "90",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "23"
+        },
+        {
+          "id": "91",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "23"
+        },
+        {
+          "id": "92",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "23"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "question": "Trong JavaScript, Array.isArray(undefined) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "93",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "24"
+        },
+        {
+          "id": "94",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "24"
+        },
+        {
+          "id": "95",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "24"
+        },
+        {
+          "id": "96",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "24"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "question": "Trong JavaScript, Array.isArray(NaN) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "97",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "25"
+        },
+        {
+          "id": "98",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "25"
+        },
+        {
+          "id": "99",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "25"
+        },
+        {
+          "id": "100",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "25"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "question": "Trong JavaScript, Array.isArray(\"abc\") trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "101",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "26"
+        },
+        {
+          "id": "102",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "26"
+        },
+        {
+          "id": "103",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "26"
+        },
+        {
+          "id": "104",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "26"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "question": "Trong JavaScript, Array.isArray(123) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "105",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "27"
+        },
+        {
+          "id": "106",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "27"
+        },
+        {
+          "id": "107",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "27"
+        },
+        {
+          "id": "108",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "27"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "question": "Trong JavaScript, Array.isArray(true) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "109",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "28"
+        },
+        {
+          "id": "110",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "28"
+        },
+        {
+          "id": "111",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "28"
+        },
+        {
+          "id": "112",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "28"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "question": "Trong JavaScript, Array.isArray(false) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "113",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "29"
+        },
+        {
+          "id": "114",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "29"
+        },
+        {
+          "id": "115",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "29"
+        },
+        {
+          "id": "116",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "29"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "question": "Trong JavaScript, Array.isArray(function() {}) trả về gì?",
+      "images": "null",
+      "quiz_id": "3",
+      "answers": [
+        {
+          "id": "117",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "30"
+        },
+        {
+          "id": "118",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "30"
+        },
+        {
+          "id": "119",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "30"
+        },
+        {
+          "id": "120",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "30"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "question": "Trong JavaScript, typeof new Function() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "121",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "31"
+        },
+        {
+          "id": "122",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "31"
+        },
+        {
+          "id": "123",
+          "content": "object",
+          "is_correct": false,
+          "question_id": "31"
+        },
+        {
+          "id": "124",
+          "content": "function",
+          "is_correct": true,
+          "question_id": "31"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "question": "Trong JavaScript, typeof new Object() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "125",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "32"
+        },
+        {
+          "id": "126",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "32"
+        },
+        {
+          "id": "127",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "32"
+        },
+        {
+          "id": "128",
+          "content": "function",
+          "is_correct": false,
+          "question_id": "32"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "question": "Trong JavaScript, typeof new Array() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "129",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "33"
+        },
+        {
+          "id": "130",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "33"
+        },
+        {
+          "id": "131",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "33"
+        },
+        {
+          "id": "132",
+          "content": "array",
+          "is_correct": false,
+          "question_id": "33"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "question": "Trong JavaScript, typeof new Date() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "133",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "34"
+        },
+        {
+          "id": "134",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "34"
+        },
+        {
+          "id": "135",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "34"
+        },
+        {
+          "id": "136",
+          "content": "date",
+          "is_correct": false,
+          "question_id": "34"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "question": "Trong JavaScript, typeof /abc/ trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "137",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "35"
+        },
+        {
+          "id": "138",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "35"
+        },
+        {
+          "id": "139",
+          "content": "object",
+          "is_correct": false,
+          "question_id": "35"
+        },
+        {
+          "id": "140",
+          "content": "regexp",
+          "is_correct": true,
+          "question_id": "35"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "question": "Trong JavaScript, typeof new RegExp() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "141",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "36"
+        },
+        {
+          "id": "142",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "36"
+        },
+        {
+          "id": "143",
+          "content": "object",
+          "is_correct": false,
+          "question_id": "36"
+        },
+        {
+          "id": "144",
+          "content": "regexp",
+          "is_correct": true,
+          "question_id": "36"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "question": "Trong JavaScript, typeof new Boolean() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "145",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "37"
+        },
+        {
+          "id": "146",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "37"
+        },
+        {
+          "id": "147",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "37"
+        },
+        {
+          "id": "148",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "37"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "question": "Trong JavaScript, typeof new String() trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "149",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "38"
+        },
+        {
+          "id": "150",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "38"
+        },
+        {
+          "id": "151",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "38"
+        },
+        {
+          "id": "152",
+          "content": "string",
+          "is_correct": false,
+          "question_id": "38"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "question": "Trong JavaScript, typeof true trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "153",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "39"
+        },
+        {
+          "id": "154",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "39"
+        },
+        {
+          "id": "155",
+          "content": "boolean",
+          "is_correct": true,
+          "question_id": "39"
+        },
+        {
+          "id": "156",
+          "content": "number",
+          "is_correct": false,
+          "question_id": "39"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "question": "Trong JavaScript, typeof 123 trả về gì?",
+      "images": "null",
+      "quiz_id": "4",
+      "answers": [
+        {
+          "id": "157",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "40"
+        },
+        {
+          "id": "158",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "40"
+        },
+        {
+          "id": "159",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "40"
+        },
+        {
+          "id": "160",
+          "content": "number",
+          "is_correct": true,
+          "question_id": "40"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "question": "Trong JavaScript, typeof \"abc\" trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "161",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "41"
+        },
+        {
+          "id": "162",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "41"
+        },
+        {
+          "id": "163",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "41"
+        },
+        {
+          "id": "164",
+          "content": "string",
+          "is_correct": true,
+          "question_id": "41"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "question": "Trong JavaScript, typeof (1,2,3,4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "165",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "42"
+        },
+        {
+          "id": "166",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "42"
+        },
+        {
+          "id": "167",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "42"
+        },
+        {
+          "id": "168",
+          "content": "number",
+          "is_correct": true,
+          "question_id": "42"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "question": "Trong JavaScript, typeof (1,2,\"abc\",4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "169",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "43"
+        },
+        {
+          "id": "170",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "43"
+        },
+        {
+          "id": "171",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "43"
+        },
+        {
+          "id": "172",
+          "content": "string",
+          "is_correct": true,
+          "question_id": "43"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "question": "Trong JavaScript, typeof (1,2,true,4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "173",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "44"
+        },
+        {
+          "id": "174",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "44"
+        },
+        {
+          "id": "175",
+          "content": "boolean",
+          "is_correct": true,
+          "question_id": "44"
+        },
+        {
+          "id": "176",
+          "content": "number",
+          "is_correct": false,
+          "question_id": "44"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "question": "Trong JavaScript, typeof (1,2,null,4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "177",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "45"
+        },
+        {
+          "id": "178",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "45"
+        },
+        {
+          "id": "179",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "45"
+        },
+        {
+          "id": "180",
+          "content": "number",
+          "is_correct": true,
+          "question_id": "45"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "question": "Trong JavaScript, typeof (1,2,undefined,4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "181",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "46"
+        },
+        {
+          "id": "182",
+          "content": "undefined",
+          "is_correct": true,
+          "question_id": "46"
+        },
+        {
+          "id": "183",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "46"
+        },
+        {
+          "id": "184",
+          "content": "number",
+          "is_correct": false,
+          "question_id": "46"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "question": "Trong JavaScript, typeof (1,2,NaN,4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "185",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "47"
+        },
+        {
+          "id": "186",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "47"
+        },
+        {
+          "id": "187",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "47"
+        },
+        {
+          "id": "188",
+          "content": "number",
+          "is_correct": true,
+          "question_id": "47"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "question": "Trong JavaScript, typeof (1,2,[],4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "189",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "48"
+        },
+        {
+          "id": "190",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "48"
+        },
+        {
+          "id": "191",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "48"
+        },
+        {
+          "id": "192",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "48"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "question": "Trong JavaScript, typeof (1,2,{},4) trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "193",
+          "content": "null",
+          "is_correct": false,
+          "question_id": "49"
+        },
+        {
+          "id": "194",
+          "content": "undefined",
+          "is_correct": false,
+          "question_id": "49"
+        },
+        {
+          "id": "195",
+          "content": "boolean",
+          "is_correct": false,
+          "question_id": "49"
+        },
+        {
+          "id": "196",
+          "content": "object",
+          "is_correct": true,
+          "question_id": "49"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "question": "Trong JavaScript, null == undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "5",
+      "answers": [
+        {
+          "id": "197",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "50"
+        },
+        {
+          "id": "198",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "50"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "question": "Trong JavaScript, null === undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "201",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "51"
+        },
+        {
+          "id": "202",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "51"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "question": "Trong JavaScript, NaN == NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "203",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "52"
+        },
+        {
+          "id": "204",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "52"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "question": "Trong JavaScript, NaN === NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "205",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "53"
+        },
+        {
+          "id": "206",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "53"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "question": "Trong JavaScript, [] == [] trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "207",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "54"
+        },
+        {
+          "id": "208",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "54"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "question": "Trong JavaScript, [] === [] trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "209",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "55"
+        },
+        {
+          "id": "210",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "55"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "question": "Trong JavaScript, {} == {} trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "211",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "56"
+        },
+        {
+          "id": "212",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "56"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "question": "Trong JavaScript, {} === {} trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "213",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "57"
+        },
+        {
+          "id": "214",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "57"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "question": "Trong JavaScript, [] == ![] trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "215",
+          "content": "true",
+          "is_correct": true,
+          "question_id": "58"
+        },
+        {
+          "id": "216",
+          "content": "false",
+          "is_correct": false,
+          "question_id": "58"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "question": "Trong JavaScript, [] === ![] trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "217",
+          "content": "true",
+          "is_correct": false,
+          "question_id": "59"
+        },
+        {
+          "id": "218",
+          "content": "false",
+          "is_correct": true,
+          "question_id": "59"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "question": "Trong JavaScript, 2 + '2' trả về gì?",
+      "images": "null",
+      "quiz_id": "6",
+      "answers": [
+        {
+          "id": "219",
+          "content": "4",
+          "is_correct": false,
+          "question_id": "60"
+        },
+        {
+          "id": "220",
+          "content": "'22'",
+          "is_correct": true,
+          "question_id": "60"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "question": "Trong JavaScript, 2 - '2' trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "221",
+          "content": "0",
+          "is_correct": true,
+          "question_id": "61"
+        },
+        {
+          "id": "222",
+          "content": "'20'",
+          "is_correct": false,
+          "question_id": "61"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "question": "Trong JavaScript, 2 + true trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "223",
+          "content": "3",
+          "is_correct": true,
+          "question_id": "62"
+        },
+        {
+          "id": "224",
+          "content": "'2true'",
+          "is_correct": false,
+          "question_id": "62"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "question": "Trong JavaScript, 2 - false trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "225",
+          "content": "2",
+          "is_correct": true,
+          "question_id": "63"
+        },
+        {
+          "id": "226",
+          "content": "'2false'",
+          "is_correct": false,
+          "question_id": "63"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "question": "Trong JavaScript, 2 + null trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "227",
+          "content": "2",
+          "is_correct": true,
+          "question_id": "64"
+        },
+        {
+          "id": "228",
+          "content": "'2null'",
+          "is_correct": false,
+          "question_id": "64"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "question": "Trong JavaScript, 2 - undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "229",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "65"
+        },
+        {
+          "id": "230",
+          "content": "'2undefined'",
+          "is_correct": false,
+          "question_id": "65"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "question": "Trong JavaScript, 2 + NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "231",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "66"
+        },
+        {
+          "id": "232",
+          "content": "'2NaN'",
+          "is_correct": false,
+          "question_id": "66"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "question": "Trong JavaScript, 2 - NaN trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "233",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "67"
+        },
+        {
+          "id": "234",
+          "content": "'2NaN'",
+          "is_correct": false,
+          "question_id": "67"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "question": "Trong JavaScript, 2 + [] trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "235",
+          "content": "2",
+          "is_correct": false,
+          "question_id": "68"
+        },
+        {
+          "id": "236",
+          "content": "'2'",
+          "is_correct": true,
+          "question_id": "68"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "question": "Trong JavaScript, 2 - [] trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "237",
+          "content": "2",
+          "is_correct": true,
+          "question_id": "69"
+        },
+        {
+          "id": "238",
+          "content": "'2'",
+          "is_correct": false,
+          "question_id": "69"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "question": "Trong JavaScript, 2 + {} trả về gì?",
+      "images": "null",
+      "quiz_id": "7",
+      "answers": [
+        {
+          "id": "239",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "70"
+        },
+        {
+          "id": "240",
+          "content": "'2[object Object]'",
+          "is_correct": true,
+          "question_id": "70"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "question": "Trong JavaScript, 2 - {} trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "241",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "71"
+        },
+        {
+          "id": "242",
+          "content": "'2[object Object]'",
+          "is_correct": false,
+          "question_id": "71"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "question": "Trong JavaScript, 2 + function(){} trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "243",
+          "content": "NaN",
+          "is_correct": false,
+          "question_id": "72"
+        },
+        {
+          "id": "244",
+          "content": "'2function(){}'",
+          "is_correct": true,
+          "question_id": "72"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "question": "Trong JavaScript, 2 - function(){} trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "245",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "73"
+        },
+        {
+          "id": "246",
+          "content": "'2function(){}'",
+          "is_correct": false,
+          "question_id": "73"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "question": "Trong JavaScript, 2 + undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "247",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "74"
+        },
+        {
+          "id": "248",
+          "content": "'2undefined'",
+          "is_correct": false,
+          "question_id": "74"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "question": "Trong JavaScript, 2 - undefined trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "249",
+          "content": "NaN",
+          "is_correct": true,
+          "question_id": "75"
+        },
+        {
+          "id": "250",
+          "content": "'2undefined'",
+          "is_correct": false,
+          "question_id": "75"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "question": "Trong JavaScript, 2 + null trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "251",
+          "content": "2",
+          "is_correct": true,
+          "question_id": "76"
+        },
+        {
+          "id": "252",
+          "content": "'2null'",
+          "is_correct": false,
+          "question_id": "76"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "question": "Trong JavaScript, 2 - null trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "253",
+          "content": "2",
+          "is_correct": true,
+          "question_id": "77"
+        },
+        {
+          "id": "254",
+          "content": "'2null'",
+          "is_correct": false,
+          "question_id": "77"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "question": "Trong JavaScript, 2 + true trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "255",
+          "content": "3",
+          "is_correct": true,
+          "question_id": "78"
+        },
+        {
+          "id": "256",
+          "content": "'2true'",
+          "is_correct": false,
+          "question_id": "78"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "question": "Trong JavaScript, 2 - true trả về gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "257",
+          "content": "1",
+          "is_correct": true,
+          "question_id": "79"
+        },
+        {
+          "id": "258",
+          "content": "'2true'",
+          "is_correct": false,
+          "question_id": "79"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "question": "Trong JavaScript, console.log là gì?",
+      "images": "null",
+      "quiz_id": "8",
+      "answers": [
+        {
+          "id": "259",
+          "content": "Một hàm",
+          "is_correct": true,
+          "question_id": "80"
+        },
+        {
+          "id": "260",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "80"
+        },
+        {
+          "id": "261",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "80"
+        },
+        {
+          "id": "262",
+          "content": "Một lớp",
+          "is_correct": false,
+          "question_id": "80"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "question": "Trong JavaScript, window là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "263",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "81"
+        },
+        {
+          "id": "264",
+          "content": "Một đối tượng",
+          "is_correct": true,
+          "question_id": "81"
+        },
+        {
+          "id": "265",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "81"
+        },
+        {
+          "id": "266",
+          "content": "Một lớp",
+          "is_correct": false,
+          "question_id": "81"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "question": "Trong JavaScript, Array là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "267",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "82"
+        },
+        {
+          "id": "268",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "82"
+        },
+        {
+          "id": "269",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "82"
+        },
+        {
+          "id": "270",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "82"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "question": "Trong JavaScript, undefined là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "271",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "83"
+        },
+        {
+          "id": "272",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "83"
+        },
+        {
+          "id": "273",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "83"
+        },
+        {
+          "id": "274",
+          "content": "Một giá trị đặc biệt",
+          "is_correct": true,
+          "question_id": "83"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "question": "Trong JavaScript, null là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "275",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "84"
+        },
+        {
+          "id": "276",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "84"
+        },
+        {
+          "id": "277",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "84"
+        },
+        {
+          "id": "278",
+          "content": "Một giá trị đặc biệt",
+          "is_correct": true,
+          "question_id": "84"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "question": "Trong JavaScript, NaN là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "279",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "85"
+        },
+        {
+          "id": "280",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "85"
+        },
+        {
+          "id": "281",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "85"
+        },
+        {
+          "id": "282",
+          "content": "Một giá trị đặc biệt",
+          "is_correct": true,
+          "question_id": "85"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "question": "Trong JavaScript, Infinity là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "283",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "86"
+        },
+        {
+          "id": "284",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "86"
+        },
+        {
+          "id": "285",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "86"
+        },
+        {
+          "id": "286",
+          "content": "Một giá trị đặc biệt",
+          "is_correct": true,
+          "question_id": "86"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "question": "Trong JavaScript, document là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "287",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "87"
+        },
+        {
+          "id": "288",
+          "content": "Một đối tượng",
+          "is_correct": true,
+          "question_id": "87"
+        },
+        {
+          "id": "289",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "87"
+        },
+        {
+          "id": "290",
+          "content": "Một lớp",
+          "is_correct": false,
+          "question_id": "87"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "question": "Trong JavaScript, location là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "291",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "88"
+        },
+        {
+          "id": "292",
+          "content": "Một đối tượng",
+          "is_correct": true,
+          "question_id": "88"
+        },
+        {
+          "id": "293",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "88"
+        },
+        {
+          "id": "294",
+          "content": "Một lớp",
+          "is_correct": false,
+          "question_id": "88"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "question": "Trong JavaScript, history là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "295",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "89"
+        },
+        {
+          "id": "296",
+          "content": "Một đối tượng",
+          "is_correct": true,
+          "question_id": "89"
+        },
+        {
+          "id": "297",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "89"
+        },
+        {
+          "id": "298",
+          "content": "Một lớp",
+          "is_correct": false,
+          "question_id": "89"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "question": "Trong JavaScript, Math là gì?",
+      "images": "null",
+      "quiz_id": "9",
+      "answers": [
+        {
+          "id": "299",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "90"
+        },
+        {
+          "id": "300",
+          "content": "Một đối tượng",
+          "is_correct": true,
+          "question_id": "90"
+        },
+        {
+          "id": "301",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "90"
+        },
+        {
+          "id": "302",
+          "content": "Một lớp",
+          "is_correct": false,
+          "question_id": "90"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "question": "Trong JavaScript, Date là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "303",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "91"
+        },
+        {
+          "id": "304",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "91"
+        },
+        {
+          "id": "305",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "91"
+        },
+        {
+          "id": "306",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "91"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "question": "Trong JavaScript, Function là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "307",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "92"
+        },
+        {
+          "id": "308",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "92"
+        },
+        {
+          "id": "309",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "92"
+        },
+        {
+          "id": "310",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "92"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "question": "Trong JavaScript, Object là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "311",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "93"
+        },
+        {
+          "id": "312",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "93"
+        },
+        {
+          "id": "313",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "93"
+        },
+        {
+          "id": "314",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "93"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "question": "Trong JavaScript, String là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "315",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "94"
+        },
+        {
+          "id": "316",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "94"
+        },
+        {
+          "id": "317",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "94"
+        },
+        {
+          "id": "318",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "94"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "question": "Trong JavaScript, Number là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "319",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "95"
+        },
+        {
+          "id": "320",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "95"
+        },
+        {
+          "id": "321",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "95"
+        },
+        {
+          "id": "322",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "95"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "question": "Trong JavaScript, Boolean là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "323",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "96"
+        },
+        {
+          "id": "324",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "96"
+        },
+        {
+          "id": "325",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "96"
+        },
+        {
+          "id": "326",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "96"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "question": "Trong JavaScript, Error là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "327",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "97"
+        },
+        {
+          "id": "328",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "97"
+        },
+        {
+          "id": "329",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "97"
+        },
+        {
+          "id": "330",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "97"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "question": "Trong JavaScript, RegExp là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "331",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "98"
+        },
+        {
+          "id": "332",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "98"
+        },
+        {
+          "id": "333",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "98"
+        },
+        {
+          "id": "334",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "98"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "question": "Trong JavaScript, Promise là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "335",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "99"
+        },
+        {
+          "id": "336",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "99"
+        },
+        {
+          "id": "337",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "99"
+        },
+        {
+          "id": "338",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "99"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "question": "Trong JavaScript, Symbol là gì?",
+      "images": "null",
+      "quiz_id": "10",
+      "answers": [
+        {
+          "id": "339",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "100"
+        },
+        {
+          "id": "340",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "100"
+        },
+        {
+          "id": "341",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "100"
+        },
+        {
+          "id": "342",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "100"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "question": "Trong JavaScript, Set là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "343",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "101"
+        },
+        {
+          "id": "344",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "101"
+        },
+        {
+          "id": "345",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "101"
+        },
+        {
+          "id": "346",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "101"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "question": "Trong JavaScript, Map là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "347",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "102"
+        },
+        {
+          "id": "348",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "102"
+        },
+        {
+          "id": "349",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "102"
+        },
+        {
+          "id": "350",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "102"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "question": "Trong JavaScript, WeakSet là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "351",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "103"
+        },
+        {
+          "id": "352",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "103"
+        },
+        {
+          "id": "353",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "103"
+        },
+        {
+          "id": "354",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "103"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "question": "Trong JavaScript, WeakMap là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "355",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "104"
+        },
+        {
+          "id": "356",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "104"
+        },
+        {
+          "id": "357",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "104"
+        },
+        {
+          "id": "358",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "104"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "question": "Trong JavaScript, ArrayBuffer là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "359",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "105"
+        },
+        {
+          "id": "360",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "105"
+        },
+        {
+          "id": "361",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "105"
+        },
+        {
+          "id": "362",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "105"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "question": "Trong JavaScript, DataView là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "363",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "106"
+        },
+        {
+          "id": "364",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "106"
+        },
+        {
+          "id": "365",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "106"
+        },
+        {
+          "id": "366",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "106"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "question": "Trong JavaScript, Int8Array là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "367",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "107"
+        },
+        {
+          "id": "368",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "107"
+        },
+        {
+          "id": "369",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "107"
+        },
+        {
+          "id": "370",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "107"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "question": "Trong JavaScript, Uint8Array là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "371",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "108"
+        },
+        {
+          "id": "372",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "108"
+        },
+        {
+          "id": "373",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "108"
+        },
+        {
+          "id": "374",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "108"
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "question": "Trong JavaScript, Uint8ClampedArray là gì?",
+      "images": "null",
+      "quiz_id": "11",
+      "answers": [
+        {
+          "id": "375",
+          "content": "Một hàm",
+          "is_correct": false,
+          "question_id": "109"
+        },
+        {
+          "id": "376",
+          "content": "Một đối tượng",
+          "is_correct": false,
+          "question_id": "109"
+        },
+        {
+          "id": "377",
+          "content": "Một biến",
+          "is_correct": false,
+          "question_id": "109"
+        },
+        {
+          "id": "378",
+          "content": "Một lớp",
+          "is_correct": true,
+          "question_id": "109"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "question": "Kiểu dữ liệu nào sau đây không phải là kiểu dữ liệu cơ bản trong JavaScript?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "379",
+          "content": "Number",
+          "is_correct": false,
+          "question_id": "110"
+        },
+        {
+          "id": "380",
+          "content": "String",
+          "is_correct": false,
+          "question_id": "110"
+        },
+        {
+          "id": "381",
+          "content": "Boolean",
+          "is_correct": false,
+          "question_id": "110"
+        },
+        {
+          "id": "382",
+          "content": "Object",
+          "is_correct": true,
+          "question_id": "110"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "question": "Cặp nào sau đây cho kết quả so sánh bằng nhau (==) đúng?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "383",
+          "content": "1 == \"1\"",
+          "is_correct": true,
+          "question_id": "111"
+        },
+        {
+          "id": "384",
+          "content": "true == 1",
+          "is_correct": false,
+          "question_id": "111"
+        },
+        {
+          "id": "385",
+          "content": "[] == {}",
+          "is_correct": false,
+          "question_id": "111"
+        },
+        {
+          "id": "386",
+          "content": "null == undefined",
+          "is_correct": false,
+          "question_id": "111"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "question": "Từ khóa nào sau đây dùng để khai báo biến có giá trị không thay đổi?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "387",
+          "content": "var",
+          "is_correct": false,
+          "question_id": "112"
+        },
+        {
+          "id": "388",
+          "content": "let",
+          "is_correct": false,
+          "question_id": "112"
+        },
+        {
+          "id": "389",
+          "content": "const",
+          "is_correct": true,
+          "question_id": "112"
+        },
+        {
+          "id": "390",
+          "content": "function",
+          "is_correct": false,
+          "question_id": "112"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "question": "Hàm typeof(x) dùng để làm gì?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "391",
+          "content": "Kiểm tra xem x có phải là object hay không",
+          "is_correct": false,
+          "question_id": "113"
+        },
+        {
+          "id": "392",
+          "content": "Kiểm tra xem x có phải là array hay không",
+          "is_correct": false,
+          "question_id": "113"
+        },
+        {
+          "id": "393",
+          "content": "Kiểm tra xem x có phải là function hay không",
+          "is_correct": false,
+          "question_id": "113"
+        },
+        {
+          "id": "394",
+          "content": "Kiểm tra kiểu dữ liệu của x",
+          "is_correct": true,
+          "question_id": "113"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "question": "Phương thức nào sau đây dùng để thêm một phần tử vào cuối mảng?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "395",
+          "content": "push()",
+          "is_correct": true,
+          "question_id": "114"
+        },
+        {
+          "id": "396",
+          "content": "pop()",
+          "is_correct": false,
+          "question_id": "114"
+        },
+        {
+          "id": "397",
+          "content": "shift()",
+          "is_correct": false,
+          "question_id": "114"
+        },
+        {
+          "id": "398",
+          "content": "unshift()",
+          "is_correct": false,
+          "question_id": "114"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "question": "Khái niệm nào sau đây không liên quan đến lập trình hướng đối tượng?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "399",
+          "content": "Class",
+          "is_correct": false,
+          "question_id": "115"
+        },
+        {
+          "id": "400",
+          "content": "Inheritance",
+          "is_correct": false,
+          "question_id": "115"
+        },
+        {
+          "id": "401",
+          "content": "Polymorphism",
+          "is_correct": false,
+          "question_id": "115"
+        },
+        {
+          "id": "402",
+          "content": "Function",
+          "is_correct": true,
+          "question_id": "115"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "question": "Cách nào sau đây dùng để khai báo một class trong JavaScript?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "403",
+          "content": "function ClassName() {}",
+          "is_correct": false,
+          "question_id": "116"
+        },
+        {
+          "id": "404",
+          "content": "class ClassName {}",
+          "is_correct": true,
+          "question_id": "116"
+        },
+        {
+          "id": "405",
+          "content": "var ClassName = function() {}",
+          "is_correct": false,
+          "question_id": "116"
+        },
+        {
+          "id": "406",
+          "content": "const ClassName = {}",
+          "is_correct": false,
+          "question_id": "116"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "question": "Thành phần nào sau đây không thuộc về một class?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "407",
+          "content": "Constructor",
+          "is_correct": false,
+          "question_id": "117"
+        },
+        {
+          "id": "408",
+          "content": "Method",
+          "is_correct": false,
+          "question_id": "117"
+        },
+        {
+          "id": "409",
+          "content": "Property",
+          "is_correct": false,
+          "question_id": "117"
+        },
+        {
+          "id": "410",
+          "content": "Prototype",
+          "is_correct": true,
+          "question_id": "117"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "question": "Tính chất nào sau đây của inheritance (kế thừa) là đúng?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "411",
+          "content": "Subclass có thể truy cập trực tiếp private member của superclass",
+          "is_correct": false,
+          "question_id": "118"
+        },
+        {
+          "id": "412",
+          "content": "Subclass có thể ghi đè (override) method của superclass",
+          "is_correct": true,
+          "question_id": "118"
+        },
+        {
+          "id": "413",
+          "content": "Subclass kế thừa tất cả các property của superclass",
+          "is_correct": false,
+          "question_id": "118"
+        },
+        {
+          "id": "414",
+          "content": "Subclass có thể sử dụng private member của superclass",
+          "is_correct": false,
+          "question_id": "118"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "question": "Polymorphism thể hiện qua cách thức nào sau đây?",
+      "images": "null",
+      "quiz_id": "12",
+      "answers": [
+        {
+          "id": "415",
+          "content": "Overloading",
+          "is_correct": false,
+          "question_id": "119"
+        },
+        {
+          "id": "416",
+          "content": "Overriding",
+          "is_correct": true,
+          "question_id": "119"
+        },
+        {
+          "id": "417",
+          "content": "Abstraction",
+          "is_correct": false,
+          "question_id": "119"
+        },
+        {
+          "id": "418",
+          "content": "Encapsulation",
+          "is_correct": false,
+          "question_id": "119"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Đinh Trọng Phúc",
+      "phone": "0377461482",
+      "email": "dinhtrongphuc19@gmail.com",
+      "password": "0377461482p",
+      "address": "Hóc Môn, TPHCM",
+      "is_admin": true
+    }
+  ]
+}

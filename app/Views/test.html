@@ -1,0 +1,83 @@
+<section class="banner container-fluid">
+  <div class="container">
+    <a class="btn btn-primary btn-lg px-4 mb-5" href="#!listTest">Trở về</a>
+    <div class="row">
+      <div class="col-lg-9 mb-5 mb-lg-0 order-2 order-lg-1 border p-4 rounded-3">
+        <h3 class="mb-1">{{quiz[0].title}}</h3>
+        <h3></h3>
+        <span class="mb-3 d-block">{{quiz[0].location}}</span>
+        <div class="header-test mb-3 d-flex justify-content-between bg-secondary-subtle py-4 px-3 rounded-2">
+          <div class="quantity-test">
+            <i class="bi bi-check2-square"></i>
+            {{quiz[0].ques_quantity}} câu
+          </div>
+          <div class="time-test">
+            <i class="bi bi-alarm"></i>
+            {{quiz[0].time}} phút
+          </div>
+          <div class="time-test">
+            <i class="bi bi-person"></i>
+            {{quiz[0].user_join}} lượt thi
+          </div>
+        </div>
+        <div class="exams">
+          <ul class="list-group list-group-flush mb-3">
+            <li ng-repeat="ques in questions" class="list-group-item mb-3">
+              <h4 class="fs-3 mb-3">Câu {{$index + 1}}: {{ques.question}} </h4>
+              <div class="question">
+                  <div ng-repeat="answer in ques.answers | limitTo:4" class="form-check mb-3">
+                    <input class="form-check-input" ng-if="ques.correct.length > 1" type="checkbox"  ng-model="answer.selected" ng-value="answer.id" name="answer" ng-click="choseAnswers(answer.id)" id="answer{{answer.id}}">
+                    <input class="form-check-input" ng-if="ques.correct.length <= 1" type="radio" ng-model="answer.selected" ng-value="answer.id" name="answer{{ques.id}}" ng-click="choseAnswers(answer.id)" id="answer{{answer.id}}">
+                    <label class="form-check-label ms-2" for="answer{{answer.id}}">
+                      <span>{{answer.content}}</span>
+                    </label>
+                  </div>
+              </div>
+            </li>
+          </ul>
+          <a class="btn btn-outline-primary btn-lg" ng-click="submitQuiz()">Nộp bài</a>
+        </div>
+      </div>
+      <div class="col-lg-3 order-1 order-lg-2 mb-5 mg-lg-0">
+        <img class="mb-5 w-100 d-block img-fluid object-fit-cover"
+          src="https://obin.distinctrobin.com/adt/adn/2021/09/banner-0nP2M9o1A1.jpeg" alt="" style="height: 250px;">
+        <div class="top">
+          <div class="card">
+            <div class="card-header bg-primary text-white text-center fs-5 fw-bold">Top 10 lượt thi</div>
+            <table class="table mb-0">
+              <thead>
+                <tr>
+                  <th scope="col">Tên</th>
+                  <th scope="col">Điểm</th>
+                  <th scope="col">Thời gian</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Đinh Trọng Phúc</th>
+                  <td>10</td>
+                  <td>23 phút</td>
+                </tr>
+                <tr>
+                  <th>Đinh Trọng Phúc</th>
+                  <td>10</td>
+                  <td>23 phút</td>
+                </tr>
+                <tr>
+                  <th>Đinh Trọng Phúc</th>
+                  <td>10</td>
+                  <td>23 phút</td>
+                </tr>
+                <tr>
+                  <th>Đinh Trọng Phúc</th>
+                  <td>10</td>
+                  <td>23 phút</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

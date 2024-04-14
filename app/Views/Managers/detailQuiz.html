@@ -1,0 +1,55 @@
+<div class="container mt-5">
+    <div>
+        <a class="btn btn-primary mb-5" href="#!manager/quizes">Tro ve</a>
+        <div class="card">
+            <div class="card-header text-uppercase">
+                Danh sach quiz
+            </div>
+            <table class="table table-bordered table-condensed mb-0">
+                <thead>
+                    <tr>
+                        <th><a href="#" class="text-decoration-none">STT</a></th>
+                        <th><a href="#" class="text-decoration-none">Cau hoi</a></th>
+                        <th><a href="#" class="text-decoration-none">Hinh anh</a></th>
+                        <th><a href="#" class="text-decoration-none">NGÀY</a></th>
+                        <th><a href="#" class="text-decoration-none">NGÀY</a></th>
+                        <th><a href="#" class="text-decoration-none">NGÀY</a></th>
+                        <th><a href="#" class="text-decoration-none">NGÀY</a></th>
+                        <th><a href="#" class="text-decoration-none">ACTION</a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="q in quiz">
+                        <td>{{$index+1}}</td>
+                        <td>{{q.question}}</td>
+                        <td>{{q.images ? q.images : "Khong co"}}</td>
+                        <td ng-repeat="a in q.answers | limitTo:4">{{a.content}}</td>
+                        <td class="d-flex justify-content-center gap-2">
+                            <a class="btn btn-danger" ng-click="deleteQuiz(q.id, $index)">Xoa</a>
+                            <a class="btn btn-success" href="#!manager/quizes/{{q.id}}">Xem chi tiet</a>
+                            <a class="btn btn-info">Sua</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <!-- <div class="card-footer">
+                <ul class="pagination">
+                    <li class="page-item">
+                        <a class="page-link" href="#" ng-click="prev()">Trước</a>
+                    </li>
+                    <li class="page-item"><a class="page-link" href="#" ng-click="first()">Lên</a></li>
+                    <li class="page-item"><a class="page-link" href="#" ng-click="last()">Xuống</a></li>
+                    <li class="page-item">
+                        <a class="page-link" href="#" ng-click="next()">Tiếp theo</a>
+                    </li>
+                </ul>
+            </div> -->
+        </div>
+    </div>
+</div>
+
+<script>
+    // let app = angular.module("myapp", []);
+    
+
+</script>

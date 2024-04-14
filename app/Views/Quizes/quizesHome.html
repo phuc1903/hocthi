@@ -1,0 +1,95 @@
+<section class="exams container-fluid">
+    <div class="container">
+        <h3 class="display-6 text-center mb-3 fw-semibold">Đề thi mới nhất</h3>
+        <div class="row exams-home">
+            <div ng-repeat="quiz in quizes | limitTo:8" class="exam-item-home col-lg-3 col-md-6 transition-up mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">{{quiz.title}}</h5>
+                        <ul class="exam-info-home list-unstyled d-flex flex-wrap flex-row">
+                            <li class="border-2 border-end border-dark ps-1 pe-2 mb-2"><i
+                                    class="bi bi-alarm pe-1"></i> {{quiz.time}} phut</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">{{quiz.user_join}}</i> phần thi
+                            </li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">{{quiz.ques_quantity}}</i> câu hỏi
+                            </li>
+                        </ul>
+                        <a href="#!listTest" class="btn btn-outline-primary d-block">Chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="exam-item-home col-lg-3 col-md-6 transition-up mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">IELTS Simulation Listening test 1</h5>
+                        <ul class="exam-info-home list-unstyled d-flex flex-wrap flex-row">
+                            <li class="border-2 border-end border-dark ps-1 pe-2 mb-2"><i
+                                    class="bi bi-alarm pe-1"></i> 40 phut</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i
+                                    class="bi bi-pencil pe-1"></i> 22335</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">4</i> phần thi
+                            </li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">40</i> câu hỏi
+                            </li>
+                        </ul>
+                        <a href="#" class="btn btn-outline-primary d-block">Chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="exam-item-home col-lg-3 col-md-6 transition-up mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">IELTS Simulation Listening test 1</h5>
+                        <ul class="exam-info-home list-unstyled d-flex flex-wrap flex-row">
+                            <li class="border-2 border-end border-dark ps-1 pe-2 mb-2"><i
+                                    class="bi bi-alarm pe-1"></i> 40 phut</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i
+                                    class="bi bi-pencil pe-1"></i> 22335</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">4</i> phần thi
+                            </li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">40</i> câu hỏi
+                            </li>
+                        </ul>
+                        <a href="#" class="btn btn-outline-primary d-block">Chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="exam-item-home col-lg-3 col-md-6 transition-up mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">IELTS Simulation Listening test 1</h5>
+                        <ul class="exam-info-home list-unstyled d-flex flex-wrap flex-row">
+                            <li class="border-2 border-end border-dark ps-1 pe-2 mb-2"><i
+                                    class="bi bi-alarm pe-1"></i> 40 phut</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i
+                                    class="bi bi-pencil pe-1"></i> 22335</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">4</i> phần thi
+                            </li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">40</i> câu hỏi
+                            </li>
+                        </ul>
+                        <a href="#" class="btn btn-outline-primary d-block">Chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="exam-item-home col-lg-3 col-md-6 transition-up mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">IELTS Simulation Listening test 1</h5>
+                        <ul class="exam-info-home list-unstyled d-flex flex-wrap flex-row">
+                            <li class="border-2 border-end border-dark ps-1 pe-2 mb-2"><i
+                                    class="bi bi-alarm pe-1"></i> 40 phut</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i
+                                    class="bi bi-pencil pe-1"></i> 22335</li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">4</i> phần thi
+                            </li>
+                            <li class="border-2 border-end border-dark ps-1 pe-2"><i class="pe-1">40</i> câu hỏi
+                            </li>
+                        </ul>
+                        <a href="#" class="btn btn-outline-primary d-block">Chi tiết</a>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</section>

@@ -1,0 +1,27 @@
+<div class="card col-6 mx-auto mt-5 p-5">
+    <div class="card-header">
+        <h4 class="modal-title">Them quiz</h4>
+    </div>
+    <div class="cart-body">
+        <form>
+            <div class="my-3">
+                <label for="emailRegisterForm" class="form-label">Title</label>
+                <input type="text" class="form-control" id="emailRegisterForm" autocomplete="username"
+                    placeholder="Nhập email" ng-model="title" name="title">
+            </div>
+            <div class="my-3">
+                <label for="passwordRegisterForm" class="form-label">Nhap location</label>
+                <input type="text" class="form-control" id="passwordRegisterForm" autocomplete="current-password"
+                    placeholder="Nhap location" ng-model="location" name="location">
+            </div>
+            <div class="my-3">
+                <label for="passwordRegisterForm" class="form-label">Nhap so cau hoi</label>
+                <input type="number" class="form-control" id="passwordRegisterForm" autocomplete="current-password"
+                    placeholder="Nhap so cau hoi" ng-model="ques_quantity" name="ques_quantity">
+            </div>
+            <!-- <span class="mb-3 d-block">Quên mật khẩu? <a class="link-offset-2" href="#!account/ressetPassword">Nhấn vào đây</a></span> -->
+            <a class="btn btn-primary d-block" ng-click="AddQuiz()">Them</a>
+            <div ng-show="isError" class="alert alert-danger mt-5">Đăng nhập thất bại hoặc email và mật khẩu không đúng</div>
+        </form>
+    </div>
+</div>

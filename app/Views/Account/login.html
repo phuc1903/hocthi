@@ -1,0 +1,23 @@
+        <div class="card col-6 mx-auto mt-5 p-5">
+            <div class="card-header">
+                <h4 class="modal-title">Xin chào! chúc bạn một ngày tốt lành</h4>
+            </div>
+            <div class="cart-body">
+                <form ng-submit="login()">
+                    <div class="my-3">
+                        <label for="emailRegisterForm" class="form-label">Nhập địa chỉ
+                            email</label>
+                        <input type="email" class="form-control" id="emailRegisterForm" autocomplete="username"
+                            placeholder="Nhập email" ng-model="email">
+                    </div>
+                    <div class="my-3">
+                        <label for="passwordRegisterForm" class="form-label">Nhập mật khẩu</label>
+                        <input type="password" class="form-control" id="passwordRegisterForm" autocomplete="current-password"
+                            placeholder="Nhập mật khẩu" ng-model="password">
+                    </div>
+                    <span class="mb-3 d-block">Quên mật khẩu? <a class="link-offset-2" href="#!account/ressetPassword">Nhấn vào đây</a></span>
+                    <button type="submit" class="btn btn-primary d-block">Đăng nhập</button>
+                    <div ng-show="isError" class="alert alert-danger mt-5">Đăng nhập thất bại hoặc email và mật khẩu không đúng</div>
+                </form>
+            </div>
+        </div>
